@@ -1,0 +1,29 @@
+body{
+    margin: 85px;
+    background: linear-gradient(90deg,#4f5d80, #553271);
+}
+
+.search-container{
+    display: flex;
+    flex-direction: row;
+}
+
+#searchInput{
+    width: 90%;
+    height: 40px;
+    border-radius: 14px;
+    margin-top: 10px;
+}
+
+#searchbtn{
+    margin-top: 10px;
+    border-radius: 14px;
+}
+
+#career{
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #d4edda;
+    /* background: linear-gradient(#648880, #293f50); */
+    border-radius: 14px;
+}
